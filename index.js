@@ -1,1 +1,1 @@
-console.log("Primeira atividade de P.O usando o Git");
+console.log("Primeira atividade de P.O usando o GitHub");
