@@ -1,1 +1,1 @@
-console.log("Primeira atividade de P.O usando o Git");
+console.log("Segunda atividade de P.O usando o Git");
